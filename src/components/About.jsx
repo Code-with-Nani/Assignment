@@ -25,6 +25,17 @@ const About = () => {
 
       </div>
 
+
+      <div className="skills">
+
+
+        <div className="left h-[50vh] w-[50vw] bg-red-600 ">
+
+        </div>
+
+
+      </div>
+
       
     </>
   )
