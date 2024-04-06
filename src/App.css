@@ -1,0 +1,15 @@
+@font-face {
+  font-family: medium;
+  src: url("./assets/font/NeueHaasDisplay-Mediu.woff");
+}
+@font-face {
+  font-family: roman;
+  src: url("./assets/font/NeueHaasDisplay-Roman.woff");
+}
+
+.medium {
+  font-family: medium, sans-serif;
+}
+.roman {
+  font-family: roman, sans-serif;
+}
